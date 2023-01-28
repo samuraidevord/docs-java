@@ -27,3 +27,5 @@ Una lenguaje independiente del sistema operativo con un entorno de ejecucción l
 * Modularidad. 
 * Principio de Ocultación.
 * Lenguaje Tipado.
+
+JavaScript
