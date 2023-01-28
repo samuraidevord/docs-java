@@ -47,48 +47,6 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
   es: {
-    "¿Qué es Rust?": [{ text: "Introducción", link: "es/introduction" }],
-    "Conceptos comunes de programación": [
-      {
-        text: "Introducción",
-        link: "es/common-programming-concepts/introduction",
-      },
-      {
-        text: "Variables y Constantes",
-        link: "es/common-programming-concepts/variables",
-      },
-      {
-        text: "Tipos de Datos",
-        link: "es/common-programming-concepts/data-types",
-      },
-      {
-        text: "Funciones",
-        link: "es/common-programming-concepts/functions",
-      },
-      {
-        text: "Flujos de Control",
-        link: "es/common-programming-concepts/control-flow",
-      },
-    ],
-    "La Propiedad": [
-      {
-        text: "Entendiendo la Propiedad",
-        link: "es/ownership/introduction",
-      },
-      {
-        text: "Referencias y préstamos",
-        link: "es/ownership/references",
-      },
-      {
-        text: "Resumen",
-        link: "es/ownership/resumen",
-      },
-    ],
-    "Estructura de datos relacionados": [
-      {
-        text: "Estructura",
-        link: "es/struct/introduction",
-      },
-    ],
+    Introduction: [{ text: "Introduction", link: "es/introduction" }],
   },
 };
