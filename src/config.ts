@@ -47,6 +47,6 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
   es: {
-    Introduction: [{ text: "Introduction", link: "es/introduction" }],
+    "¿Qué es Java ?": [{ text: "Introducción", link: "es/introduction" }],
   },
 };
