@@ -15,7 +15,15 @@ La idea de Gostling era que el lenguaje java fuera multiplataforma y su promesa 
 Escríbelo una vez, ejecútalo donde quieras!
 ```
 
-Una lenguaje independiente del sistema operativo con un entorno de ejecucción llamado JVM (Java Virtual Machine)
+Una lenguaje independiente del sistema operativo con un entorno de ejecucción llamado JVM (Java Virtual Machine).
 
+## Características 
 
-Hola 
+* Muchos tipos de aplicaciones.
+* Multiplataforma. 
+* Programación orientada a objetos.
+* Recolector de Basura. 
+* Polimorfismo. 
+* Modularidad. 
+* Principio de Ocultación.
+* Lenguaje Tipado.
