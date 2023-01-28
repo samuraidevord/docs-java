@@ -7,7 +7,7 @@ layout: ../../layouts/MainLayout.astro
 * Basado en C++
 * Fue creado por un equipo de 13 personas liderado por James Gosling.
 
-## Independencia de la palataforma
+### Independencia de la palataforma
 
 La idea de Gostling era que el lenguaje java fuera multiplataforma y su promesa era: 
 
@@ -17,7 +17,7 @@ Escríbelo una vez, ejecútalo donde quieras!
 
 Una lenguaje independiente del sistema operativo con un entorno de ejecucción llamado JVM (Java Virtual Machine).
 
-## Características 
+### Características 
 
 * Muchos tipos de aplicaciones.
 * Multiplataforma. 
