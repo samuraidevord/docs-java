@@ -1,5 +1,5 @@
 ---
-title: Variables en Java
+title: Tipos de datos
 description: "Descripción básica de las variables en Java"
 layout: ../../../layouts/MainLayout.astro
 ---
